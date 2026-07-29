@@ -6,8 +6,8 @@ title: Home
 
 HanziPro is a Chinese language app.
 
-- [iOS version](https://apps.apple.com/us/app/hanzipro/id6670532165) — You can also search for **HanziPro** on the App Store.
-- [Android version](https://play.google.com/store/apps/details?id=com.habitism.hanzipro) — You can also search for **HanziPro** on Google Play.
+- [iOS version](https://apps.apple.com/us/app/hanzipro/id6670532165) — or search for `HanziPro` on the App Store.
+- [Android version](https://play.google.com/store/apps/details?id=com.habitism.hanzipro) — or search for `HanziPro` on Google Play.
 
 If you can speak English and you want to learn Chinese, then this app is designed for you.
 
